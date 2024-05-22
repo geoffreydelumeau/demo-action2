@@ -11,3 +11,4 @@ jobs:
       - name: Fin du premer Job
         run: echo "That's all Folks"
     
+# workflow_dispatch indique que le workflow pourra être déclenché manuellement depuis GitHub.
